@@ -1,6 +1,6 @@
 # Lung Cancer Detection (Deep Learning with Medical Images)
 
-## 📌 Overview
+##  Overview
 This project focuses on **lung cancer detection using medical images (Normal, Benign, Malignant)**.  
 The pipeline applies **deep learning with transfer learning** using CNN backbones such as:
 - ResNet50
@@ -13,7 +13,7 @@ The models classify lung scans into **three categories** and evaluate their accu
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 1. **Data Preprocessing**
    - Load images from dataset folder structure (`normal/`, `benign/`, `malignant/`).
    - Resize images to 256×256 pixels.
@@ -41,7 +41,7 @@ The models classify lung scans into **three categories** and evaluate their accu
 - Simpler models like VGG16 were less effective for complex medical patterns.
 
 ---
-## 🚀 How to Run
+##  How to Run
 
 Navigate to the `src/` directory:
 
