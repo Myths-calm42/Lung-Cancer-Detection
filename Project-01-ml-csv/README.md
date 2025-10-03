@@ -31,6 +31,12 @@ Each model is tested using standard evaluation metrics:
 
 ---
 
+## Results
+
+- Tree-based ensemble methods such as Random Forest and Gradient Boosting often achieve higher accuracy and robustness.
+
+- Simpler models like Logistic Regression perform well in terms of interpretability but may not capture complex relationships effectively.
+
 ##  How to Run
 
 1. Navigate to the `data/` directory:
@@ -39,10 +45,3 @@ Each model is tested using standard evaluation metrics:
 2.  Navigate to the `src/` directory:
    ```bash
     python train.py 
-
-
-## Results
-
-- Tree-based ensemble methods such as Random Forest and Gradient Boosting often achieve higher accuracy and robustness.
-
-- Simpler models like Logistic Regression perform well in terms of interpretability but may not capture complex relationships effectively.
