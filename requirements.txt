@@ -1,0 +1,21 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Deep learning
+tensorflow
+torch
+torchvision
+keras
+
+# Image processing
+opencv-python
+Pillow
+
+# Utilities
+tqdm
+scipy
