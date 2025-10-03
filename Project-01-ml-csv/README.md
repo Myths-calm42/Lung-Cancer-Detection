@@ -33,10 +33,11 @@ Each model is tested using standard evaluation metrics:
 
 ##  How to Run
 
-1. Navigate to the `src/` directory:
+1. Navigate to the `data/` directory:
    ```bash
    cd project-01-ml-csv/src
-2. Run the training script:
+2.  Navigate to the `src/` directory:
+   ```bash
     python train.py 
 
 ## Results
