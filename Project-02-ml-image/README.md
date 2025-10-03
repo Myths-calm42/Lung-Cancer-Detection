@@ -1,6 +1,6 @@
 # Lung Cancer Detection (Image Processing + Machine Learning)
 
-## 📌 Overview
+##  Overview
 
 This project implements a **lung cancer detection pipeline** using medical images.
 The workflow combines **classical image processing techniques** with **machine learning models** to classify images based on extracted texture features.
@@ -8,7 +8,7 @@ The objective is to showcase how traditional computer vision methods can complem
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 The pipeline follows a structured approach:
 
@@ -40,7 +40,7 @@ The pipeline follows a structured approach:
 
 ---
 
-## 📊 Results
+##  Results
 
 * **SVM** generally performs best on texture-based features.
 * **Random Forest** offers strong robustness with interpretable results.
@@ -48,7 +48,7 @@ The pipeline follows a structured approach:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Navigate to the `src/` directory:
 
@@ -62,7 +62,7 @@ The pipeline follows a structured approach:
    python train.py
    ```
 
-👉 The script will:
+ The script will:
 
 * Extract features into `features.csv`
 * Train a classifier and save it as `lung_model.pkl`
